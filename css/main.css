@@ -237,6 +237,21 @@ section {
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
+.topbar {
+  background:#AEC6CF;
+  height: 40px;
+  font-size: 14px;
+/*   transition: all 0.5s; */
+  color: #fff;
+  padding: 0;
+}
+@media (max-width: 575px) {
+
+  .topbar .contact-info i a,
+  .topbar .contact-info i span {
+    font-size: 13px;
+  }
+}
 /* .topbar {
   background:#AEC6CF;
   height: 40px;
