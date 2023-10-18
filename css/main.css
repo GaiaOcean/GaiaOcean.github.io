@@ -237,7 +237,7 @@ section {
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
-.topbar {
+/* .topbar {
   background:#AEC6CF;
   height: 40px;
   font-size: 14px;
@@ -285,7 +285,7 @@ section {
 
 .topbar .social-links a:hover {
   color: #fff;
-}
+} */
 
 .header {
   transition: all 0.5s;
