@@ -253,11 +253,11 @@ section {
   }
 } */
 .topbar {
-  background:#107dac;
+  background: var(--color-primary);
   height: 40px;
   font-size: 14px;
   transition: all 0.5s;
-  color: #107dac;
+  color:  var(--color-primary);
   padding: 0;
 }
 
@@ -270,7 +270,7 @@ section {
 .topbar .contact-info i a,
 .topbar .contact-info i span {
   padding-left: 5px;
-  color: #107dac;
+  color: var(--color-primary);;
 }
 
 @media (max-width: 575px) {
@@ -287,12 +287,12 @@ section {
 }
 
 .topbar .contact-info i a:hover {
-  color: #107dac;
+  color: var(--color-primary);;
   text-decoration: underline;
 }
 
 .topbar .social-links a {
-  color: rgba(255, 255, 255, 0.7);
+  color: var(--color-primary);/*   color: rgba(255, 255, 255, 0.7); */
   line-height: 0;
   transition: 0.3s;
   margin-left: 20px;
