@@ -237,11 +237,11 @@ section {
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
-.topbar {
+/* .topbar {
   background:#107dac;
   height: 40px;
   font-size: 14px;
-/*   transition: all 0.5s; */
+  transition: all 0.5s;
   color: #fff;
   padding: 0;
 }
@@ -251,9 +251,9 @@ section {
   .topbar .contact-info i span {
     font-size: 13px;
   }
-}
-/* .topbar {
-  background:#AEC6CF;
+} */
+.topbar {
+  background:#107dac;
   height: 40px;
   font-size: 14px;
   transition: all 0.5s;
@@ -300,7 +300,7 @@ section {
 
 .topbar .social-links a:hover {
   color: #fff;
-} */
+}
 
 .header {
   transition: all 0.5s;
