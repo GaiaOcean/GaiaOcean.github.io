@@ -257,20 +257,20 @@ section {
   height: 40px;
   font-size: 14px;
   transition: all 0.5s;
-  color: #fff;
+  color: #107dac;
   padding: 0;
 }
 
 .topbar .contact-info i {
   font-style: normal;
-  color: #fff;
+  color: #107dac;
   line-height: 0;
 }
 
 .topbar .contact-info i a,
 .topbar .contact-info i span {
   padding-left: 5px;
-  color: #fff;
+  color: #107dac;
 }
 
 @media (max-width: 575px) {
@@ -287,7 +287,7 @@ section {
 }
 
 .topbar .contact-info i a:hover {
-  color: #fff;
+  color: #107dac;
   text-decoration: underline;
 }
 
@@ -299,7 +299,7 @@ section {
 }
 
 .topbar .social-links a:hover {
-  color: #fff;
+  color: #107dac;
 }
 
 .header {
