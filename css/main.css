@@ -263,7 +263,7 @@ section {
 
 .topbar .contact-info i {
   font-style: normal;
-  color: #107dac;
+  color: var(--color-primary);
   line-height: 0;
 }
 
@@ -299,7 +299,7 @@ section {
 }
 
 .topbar .social-links a:hover {
-  color: #107dac;
+  color: var(--color-primary);
 }
 
 .header {
