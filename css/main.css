@@ -30,6 +30,21 @@
 }
 
 /*--------------------------------------------------------------
+# Blog 
+--------------------------------------------------------------*/
+
+.centered{
+  text-align:center;
+  display:inline=block;
+}
+
+.pastel-blue{
+  background-color:#add8e6;
+
+}
+  
+
+/*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
 body {
@@ -1613,6 +1628,7 @@ section {
   color: #fff;
 }
 
+
 .pricing .featured {
   z-index: 10;
   border: 3px solid var(--color-primary);
@@ -1696,9 +1712,11 @@ section {
   border-radius: 10px;
   background: #fff;
   box-shadow: none;
+  
 }
 
 /*--------------------------------------------------------------
+
 # Recent Blog Posts Section
 --------------------------------------------------------------*/
 .recent-posts article {
