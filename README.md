@@ -1,17 +1,17 @@
 # GaiaOcean.github.io
-Gaia Ocean is an environmental project made by high schoolers as their final paper for the environmental course. Its objective is to make society more aware of the downsides of plastic pollution to both marine animals and humans, by showing how it can negatively impact our health. This website was inspired by a template from BoostrapMade and adjustments were made so that it could perfectly fit our design.
 
-## Original Source
 
-This project is based on the Bootstrap Template(https://bootstrapmade.com/demo/Impact/).
+Gaia Ocean is an environmental project created by high schoolers as their final paper for the environmental course. The objective is to raise awareness about the negative impacts of plastic pollution on marine life and human health.
+
+## Inspiration and Source
+
+This project was inspired by the [Impact Bootstrap Template](https://bootstrapmade.com/demo/Impact/) from BootstrapMade. We have made adjustments to tailor it to our design and project goals.
 
 ## License
 
-This project is based on the Bootstrap framework, which is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-Additional modifications to this project are also licensed under the MIT License.
+The original Bootstrap framework is licensed under the [MIT License](https://opensource.org/licenses/MIT). Any additional modifications made to this project are also licensed under the MIT License.
 
 ## Acknowledgments
 
-- Thanks to BoostrapMade for inspiration.
-- Special thanks to my group members for their awesome contribution.
+- **BootstrapMade:** Thanks to BootstrapMade for the inspiration.
+- **Group Members:** Special thanks to my group members for their valuable contributions.
