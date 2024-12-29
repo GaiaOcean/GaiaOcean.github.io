@@ -1,6 +1,6 @@
 # GaiaOcean.github.io
 
-Gaia Ocean is an environmental project created by high schoolers as their final paper for the environmental course. The objective is to raise awareness about the negative impacts of plastic pollution on marine life and human health.
+Gaia Ocean is an environmental project created by high schoolers as their final paper for the environmental course. The objective of our website is to raise awareness about the negative impacts of plastic pollution on marine life and human health.
 
 ## Inspiration and Source
 
