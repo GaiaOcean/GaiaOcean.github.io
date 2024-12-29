@@ -8,6 +8,10 @@ The Gaia Ocean project was inspired by our research on the environmental challen
 
 This project is based on our final research paper, which can be accessed through this link : https://drive.google.com/file/d/1QsGIBBEIq1VlvtkHqZD2CCmg5TbWXfT6/view?usp=drivesdk
 
+## Website Link
+
+https://gaiaocean.github.io/index.html
+
 ## Acknowledgments
 
 - **Group Members:** Special thanks to my group members for their valuable contributions.
