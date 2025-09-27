@@ -8,6 +8,14 @@ The Gaia Ocean project was inspired by our research on the environmental challen
 
 This project is based on our final research paper.
 
+##Technologies Used
+
+<ul>HTML: Markup language for structuring web pages.</ul>
+
+<ul>CSS: Styling language for designing and formatting the website.</ul>
+
+<ul>JavaScript: Programming language for interactive features and dynamic content</ul>
+
 ## Website Link
 
 https://gaiaocean.github.io/index.html
