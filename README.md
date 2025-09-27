@@ -8,7 +8,7 @@ The Gaia Ocean project was inspired by our research on the environmental challen
 
 This project is based on our final research paper.
 
-##Technologies Used
+## Technologies Used
 
 <ul>HTML: Markup language for structuring web pages.</ul>
 
